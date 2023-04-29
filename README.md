@@ -1,5 +1,5 @@
 # URS
-Unmanned Aerial Observation and Response System (URS
+Unmanned Aerial Observation and Response System (URS)
 
 The Unmanned Aerial Observation and Response System (URS) project is an innovative drone designed to address the need for environmental monitoring, agricultural applications, and emergency response in remote or inaccessible locations. The URS is equipped with advanced sensors to measure a variety of environmental factors such as air quality, temperature, humidity, altitude etc . The drone is also equipped with a high-resolution camera, enabling it to capture detailed images and video of the surrounding area.
 
